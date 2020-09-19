@@ -1,0 +1,21 @@
+{
+  "name": "shopify-project",
+  "version": "1.0.0",
+  "description": "Server to create coupons on Shopify Platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Example",
+    "Coupons",
+    "Shopify",
+    "Discount"
+  ],
+  "author": "Sujoy Seal",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
